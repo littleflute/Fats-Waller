@@ -1,0 +1,9 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Everybody Loves My Baby.mp3";		
+f[2]	= "02 Squeeze Me.mp3";		
+f[3]	= "03 Ain't She Sweet.mp3";		
+f[4]	= "04 Ain't Misbehavin'.mp3";		
+f[5]	= "05 Lulu's Back in Town.mp3";		
+f[6]	= "06 Honeysuckle Rose.mp3";		
+f[7]	= "07 I've Found a New Baby.mp3";		
